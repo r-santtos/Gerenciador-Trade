@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "Trade",
+    "slug": "Trade",
+    "version": "2.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff",
+      "googleMobileAdsAppId": "ca-app-pub-3940256099942544~3347511713"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "sancompany.trade",
+      "versionCode": 2
+    }
+  }
+}
